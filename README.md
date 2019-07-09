@@ -1,3 +1,5 @@
 This is the readme
 
-Here is a typ o please fix me
+Here is a typo please fix me
+
+Fixed the typo. 
